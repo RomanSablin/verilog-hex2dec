@@ -2,3 +2,5 @@
 
 -  Converting the 16-bit value to ASCII dec value
 
+![](image/wave.png)
+
